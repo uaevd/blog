@@ -9,14 +9,14 @@ export default {
 
 type Story = StoryObj<typeof InputText>;
 
-export const TitleInput: Story = {
+export const Title: Story = {
     args: {
         value: '',
         placeholder: 'Write Title Here...',
     },
 };
 
-export const BodyInput: Story = {
+export const Body: Story = {
     args: {
         value: '',
         placeholder: 'Write Body Here...',
