@@ -19,6 +19,6 @@ export const TitleInput: Story = {
 export const BodyInput: Story = {
     args: {
         value: '',
-        placeholder: 'Write Title Here...',
+        placeholder: 'Write Body Here...',
     },
 };

@@ -11,13 +11,14 @@ type Story = StoryObj<typeof Button>;
 
 export const RedButton: Story = {
     args: {
-        label: 'Delete',
+        label: 'Close',
+        color: '#ff5722',
     },
 };
 
 export const BlueButton: Story = {
     args: {
-        label: 'Add',
+        label: 'Post',
         color: '#304ffe',
     },
 };
