@@ -11,6 +11,6 @@ type Story = StoryObj<typeof BlogBody>;
 
 export const Default: Story = {
     args: {
-        body: 'Blog Article',
+        body: 'Blog Body',
     },
 };
