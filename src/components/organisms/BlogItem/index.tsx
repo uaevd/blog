@@ -6,7 +6,7 @@ import { BlogBody } from 'components/atoms/BlogBody';
 const Container = styled.div`
     background-color: #fff;
     padding: 20px;
-    margin: 20px;
+    margin: 10px;
     border-radius: 10px;
     box-shadow:
         10px 10px 30px #d9d9d9,
