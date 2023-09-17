@@ -1,3 +1,4 @@
+import { BlogListPage } from 'components/pages/BlogListPage';
 export default function App() {
-    return <h1>Hello, World!</h1>;
+    return <BlogListPage />;
 }
